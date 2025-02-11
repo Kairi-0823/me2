@@ -151,6 +151,10 @@ nav ul li a::after {
 
 
 /* main */
+.about{
+  margin-bottom:240px
+}
+
 main{
   background-color: rgb(0 0 0 / 95%);
   margin-top: 800px;
@@ -361,11 +365,11 @@ main{
 }
 
 .camp-text{
-  width: 550px;
+  width: 500px;
   text-align: left;
   position: absolute;
   top:200px;
-  right: 50px;
+  right: 20px;
 }
 
 .camp-text p{
